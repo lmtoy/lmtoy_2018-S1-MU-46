@@ -1,5 +1,5 @@
 #  CO
-85775 -3                       # pix_list=-3
+85776 -3                       # pix_list=-3
 85778 -3 		       # pix_list=-3
 85818 -3 		       # pix_list=-3
 85820 -3? 		       # pix_list=-3
