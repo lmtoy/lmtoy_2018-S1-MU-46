@@ -91,5 +91,5 @@
 2020-01-15T03:28:23    88793  SEQ        Pointing     Map(Az/D)   SV-And                    2018-S1-MU-46                   86.2434   -90      78.9    1.083633  40.109953  306.2  29.1  237.6 0
 2020-01-15T03:33:17    88794  SEQ        Calibration  Cal         SV-And                    2018-S1-MU-46                   86.2434   -90       5.0    1.083633  40.109953  306.2  28.2  237.6 0
 2020-01-15T03:33:39    88795  SEQ        Pointing     Map(Az/D)   SV-And                    2018-S1-MU-46                   86.2434   -90      79.2    1.083633  40.109953  306.2  28.1  237.6 0
-lmtslr_umass_edu@toltec-cpu001:/nese/toltec/dataprod_lmtslr/work_lmt$ 
+
 
