@@ -35,16 +35,16 @@ pars1 = {}
 pars1['L1157-B1'] = "dv=250 dw=250 extent=180"
 
 pars1['Region_J-K_CO']   = "dv=200 dw=200"
-pars1['Region_H_CO']     =  "dv=200 dw=200"
-pars1['Region_D-E_CO']   =  "dv=200 dw=200"
-pars1['Region_J-K_HCN']  =  "dv=200 dw=200"
+pars1['Region_H_CO']     = "dv=200 dw=200"
+pars1['Region_D-E_CO']   = "dv=200 dw=200"
+pars1['Region_J-K_HCN']  = "dv=200 dw=200"
 
 #        common parameters per source on subsequent runs (run1a, run2a)
 pars2 = {}
-pars2['Region_J-K_CO']   = "pix_list=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
-pars2['Region_H_CO']     = "pix_list=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
-pars2['Region_D-E_CO']   = "pix_list=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
-pars2['Region_J-K_HCN']  = "pix_list=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
+pars2['Region_J-K_CO']   = ""
+pars2['Region_H_CO']     = ""
+pars2['Region_D-E_CO']   = ""
+pars2['Region_J-K_HCN']  = ""
 
 runs.mk_runs(project, on, pars1, pars2)
 
