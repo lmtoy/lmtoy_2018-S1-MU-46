@@ -6,7 +6,6 @@
 
 import os
 import sys
-
 from lmtoy import runs
 
 project="2018-S1-MU-46"
@@ -22,8 +21,6 @@ on['Region_J-K_HCN']  = [86090, 86094, 86098, 86102, 86106, 86110,
 
 #        common parameters per source on the first dryrun (run1, run2)
 pars1 = {}
-pars1['L1157-B1'] = "dv=250 dw=250 extent=180"
-
 pars1['Region_J-K_CO']   = "dv=200 dw=200 b_order=1"
 pars1['Region_H_CO']     = "dv=200 dw=200 b_order=1"
 pars1['Region_D-E_CO']   = "dv=200 dw=200 b_order=1"
