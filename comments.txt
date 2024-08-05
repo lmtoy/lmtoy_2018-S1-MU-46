@@ -1,22 +1,23 @@
 #  CO
-85776 -3                       # pix_list=-3
-85778 -3 		       # pix_list=-3
-85818 -3 		       # pix_list=-3
-85820 -3? 		       # pix_list=-3
-85824 -0?-3? 		       # pix_list=-0,-3
-85826 -0? all? 		       # pix_list=-0
-85878 0? 1? 3? 7? 12? 13?      # pix_list=-0,-1,-3,-7,-12,-13
-85882 0? 		       # pix_list=-0
+85776                  # pix_list=-3
+85778  		       # pix_list=-3
+85818  		       # pix_list=-3
+85820  		       # pix_list=-3
+85824  		       # pix_list=-0,-3
+85826  		       # pix_list=-0
+85878                  # pix_list=-0,-1,-3,-7,-12,-13
+85882 		       # pix_list=-0
 #  HCN
 #  ICHAN=720+514=1234
-86090  birdie		       # birdie=1234 pix_list=-3 
-86094 3,15? 	       	       # birdie=1234 pix_list=-3,-15
-86098 -3    	       	       # birdie=1233 pix_list=-3
-86102 -3 		       # birdie=1233 pix_list=-3
-86106 -0,-3,-8 		       # birdie=1233 pix_list=-0,-3,-8
-86110 -0,-3,-8 		       # birdie=1233 pix_list=-0,-3,-8
-86133 -3,-15 		       # birdie=1233 pix_list=-3,-15
-86137 -0,-3,-15 	       # birdie=1233 pix_list=-0,-3,-15
-86139 -0,-3,-15 	       # birdie=1233 pix_list=-0,-3,-15
-86243 -3,-15 		       # birdie=1233 pix_list=-3,-15
-86247 -3,-15 		       # birdie=1233 pix_list=-3,-15	
+#                      note the birdie changed channel
+86090  birdie	       # birdie=1234 pix_list=-3 
+86094  	       	       # birdie=1234 pix_list=-3,-15
+86098    	       # birdie=1233 pix_list=-3
+86102 		       # birdie=1233 pix_list=-3
+86106  		       # birdie=1233 pix_list=-0,-3,-8
+86110  		       # birdie=1233 pix_list=-0,-3,-8
+86133  		       # birdie=1233 pix_list=-3,-15
+86137     	       # birdie=1233 pix_list=-0,-3,-15
+86139  	               # birdie=1233 pix_list=-0,-3,-15
+86243  		       # birdie=1233 pix_list=-3,-15
+86247 		       # birdie=1233 pix_list=-3,-15	

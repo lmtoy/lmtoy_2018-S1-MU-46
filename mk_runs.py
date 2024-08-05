@@ -35,4 +35,3 @@ pars2['Region_J-K_HCN']  = ""
 
 if __name__ == "__main__":
     runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
-
